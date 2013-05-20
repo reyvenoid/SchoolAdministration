@@ -1,0 +1,1037 @@
+<html>
+
+<head>
+
+	<title>Carigara School of Fisheries</title>
+	<link rel="shortcut icon" href="images/csf.jpeg" />
+	
+	
+	<script src="js/jquery-1.8.2.min.js"></script>
+	<script src="js/jquery-ui-1.9.0.custom.min.js"></script>
+	<script src="bootstrap/js/bootstrap.js"></script>
+    	<script src="bootstrap/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="css/jquery-ui.css" />
+    	<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen" />
+    	<link href="bootstrap/css/bootstrap.css" rel="stylesheet" media="screen" />
+	<script src="js/chamba.js"></script>
+	<link rel="stylesheet" href="css/style.css" type="text/css"/>
+</head>
+
+<body>
+    <fieldset id="fieldset_oo">
+          <img id="logo" src="css/images/depEd.jpeg"><img id="csf" src="css/images/csf.jpeg">
+          <center><h1 class="title_header_01"><i>Carigara School of Fisheries</i></h1></center>
+          
+          <hr />
+
+
+
+
+
+         <center>
+          	<nav>
+	          	<ul>
+		          	<li><a href="#main" id="home">Home</a></li>
+		          	<li><a href="#">About Us</a>
+			          <ul>
+				          <li><a href="#about_01" id="history">History</a></li>
+				          <li><a href="#about_02" id="teaching">Teaching Staff</a></li>
+				          <li><a href="#mission_vision" id="mssn_vssn">Mission And Vision</a></li>
+			          </ul>
+		          	</li>
+		          	<li><a>Academics</a>
+		          		<ul>
+			          		<li><a href="#about_03" id="curr">Curriculum</a>
+					        <li><a href="#Admission" id="admin">Admission Requirement</a></li>
+		          		</ul>
+		          	</li>
+		          	<li><a href="#main_02" id="enroll">Enrollment</a>
+		               	<ul>
+		                    <li><a href="#enroll_01" id="Year_01">1st Year Enrollee</a></li>
+		                    <li><a href="#enroll_02" id="Year_02">2nd Year Enrollee</a></li>
+		                    <li><a href="#enroll_03" id="Year_03">3rd Year Enrollee</a></li>
+		                    <li><a href="#enroll_04" id="Year_04">4th Year Enrollee</a></li>
+		               	</ul>
+		            </li>
+		          	<li><a href="#" id="alum">Student Center</a>
+		          		<ul>
+		          			<li><a href="#Clubs" id="id_club">Clubs</a></li>
+		          			<li><a href="#school_activities" id="SCH_ACT">School Acts.</a></li>
+		          		</ul>
+		          	</li>
+		           	<li><a href="#Contact" id="contact">Contact</a></li>
+	          	</ul>
+        	</nav>
+        </center>
+    </fieldset>
+
+<div id="Clock">
+	<p>What time is it??</p>
+	<p id="demo"></p>
+</div> 
+     
+<div id="log_log">
+    <ul id="logos">
+    	<h4>Connect to US</h4>
+        <a href="http://www.facebook.com/"><img id="fb" src="images/Facebook.png"></a>
+	<a href="http://www.twitter.com/"><img id="tweet" src="images/Twitter-.png"></a>
+	<a href="http://www.yahoo.com/"><img id="yahoo" src="images/yahoo.png"></a>
+	   	
+    </ul>  
+</div>  
+
+
+<div id="subjects">
+	<fieldset id="id_field_subj">
+		<h4 id="subjects_h4">SUBJECTS <br />CATEGORIES</h4>
+
+			<hr />
+			<a href="#Mathematics" class="subj" id="math">Mathematics</a><br />
+			<a href="" class="subj">Science</a><br />
+			<a href="" class="subj">English</a><br />
+			<a href="" class="subj">Social Science</a><br />
+			<a href="" class="subj">T.V.E</a><br />
+			<a href="" class="subj">Filipino</a><br />
+			<a href="" class="subj">MAPEH</a><br />
+			<a href="" class="subj">Values</a><br />
+			<a href="" class="subj">Entrepreneurship</a><br />
+			<a href="" class="subj">Technical Drawing</a><br />
+			<a href="" class="subj">PC Operation</a><br />
+	</fieldset>			
+</div>
+
+<div id="main">
+	
+		    <fieldset id="fieldset_o1">
+				
+				<div id="picko"> 
+               		<div id="slideshow">
+	                   	<div>
+	                     	<img src="images/csf.jpeg" class = "koko">
+	                  	</div>
+	                   	<div>
+	                     	<img src="images/csfinternet.jpg" class = "koko">
+	                   	</div>
+	                   	<div>
+	                     	<img src="images/fishingcsf.jpg" class = "koko">
+	                   	</div>
+	                   	<div>
+	                     	<img src="images/quad.jpeg" class = "koko">
+	                   	</div>
+	                   	<div>
+	                     	<img src="images/quadrangle.jpeg" class = "koko">
+	                   	</div>
+                	</div><!--slideshow-->
+         		</div><!--picko-->
+         		<br />
+         		<br />
+         		<br />
+         		<br />
+         		<br />
+         		<br />
+         		<br />
+         		<br />
+         		<br />
+         		<br />
+         		<br />
+         		<br />
+         		
+         		
+         		
+
+
+		     	<fieldset>
+
+		     	
+					
+					<h4>Welcome!</h4>
+
+					<p>
+						<i><u>Carigara School of Fisheries</u></i> goes online in the pursuit of a more responsive education meeting the challenges of the fast changing needs and demands of the times.
+
+						This is through the support and assistance of SMART, Smart Schools Program, Philippine Business for Social Progress, SWEEP, DepEd & Learn.ph
+
+						Visit us and be a part of our constant and endless endeavors in creating a better learning institution dedicated in producing productive citizens.
+					</p>
+				</fieldset>
+
+
+				<fieldset id="payo">
+
+					<p>To our dear students, hope that your achievements in life shall be these - 
+						that you will have fought for what was right and fair, 
+						that you will have risked for that which mattered, 
+						and that you will have given help to those who were in need that you will have left 
+						the earth a better place for what you've done and who you've been.
+
+
+					</p>
+				</fieldset>
+	        </fieldset>
+</div>
+	
+	
+<div id="about_01">
+	       <fieldset id="fieldset_ox">
+	       
+	
+	         <h2>School History</h2>
+	         
+		        <fieldset id="csf_history">
+		         <p>	
+					<img id="csf2" src="css/images/csf.jpeg">
+						<u><b><i>Carigara School of Fisheries (CSF)</i></b></u> was established by the virtue of Republic Act No. 685 as approved on May 9, 1952.
+
+					On October 31, 2000, Special Provision No. 2 of the CHED Fiscal Year 2000 and Republic Act No. 8760, Carigara School of Fisheries was integrated to Leyte Institute of Technology-Carigara Campus. The integration has paved the way to redirect relevant program.
+	</br>
+	On June 19, 2002 a Memorandum of Agreement (MOA) was made and entered into by and between the Leyte Institute of Technology, Tacloban City represented by Bonifacio S. Villanueva, President of the Leyte Institute of Technology and the Department of Education, Regional Office No. VIII, represented by Dr. Sol F. Matugas, Regional Director of DepEd.
+	</br>
+	 In this MOA, a complete transfer of Carigara School of Fisheries-LIT Carigara Campus, high school department was turned-over to DepEd. It is also stated in this Memorandum of Agreement that the high school enrolment in all level as well as the administration and supervision be transferred effective at the start of school year 2002-2003.
+	</br>
+	DepEd will give access to the school for the laboratories of respective Teachers Education Program Policy guidelines on transferred include fifteen (15) Teachers and one (1) Non-Teaching Staff. 
+	</br>
+	Presently, Carigara School of Fisheries is adapted to a mother secondary school, Carigara National High School, as far as Plantilla of Personnel is concerned. 
+	</br>
+	The desire to create a separate and independent national high school that will boost the morale of the school personnel and students, and to normalize the school operation, the Schools Division Superintendent of the Division of Leyte, Parents, Community, Teachers, Students, duly endorsed by the Sangguniang Bayan of the Municipality of Carigara, Leyte, initiated and requested the House of the Representatives through the Congresswoman Trinidad “Ebbie” Go Apostol, the separation of Carigara School of Fisheries from the mother secondary school. 
+	</br>
+	On November 17, 2004, Trinidad “Ebbie” Go Apostol, introduced to the House of Representatives the House Bill No. 3306. 
+	</br>
+	This Bill seeks to establish an independent national high school at Barangay Barugohay Norte, Municipality of Carigara, Second District, Province of Leyte to be known as the Carigara School of Fisheries National High School.
+	</br>
+	The separation of the school is very much needed for the wholesome development of the school. The limited resources and the growing enrolment, the school needs arise, priorities can be done by school manager in a separate management through a well-thought out plan. Republic Act No. 9155 (Governance of Basic Education Act) recognizes the importance of education planning of all levels. 
+	</br>
+	This provides both elementary and secondary schools be responsible and accountable for the formulation of school improvement plans with the community and stakeholders. 
+	</br>
+	The separation of the high school from the college led to scarcity of academic facilities and pedagogical resources for years. However, the declaration of independence for the high school has left a few qualified sites from which to rise and witness educational and vocational development. 
+	</br>
+	Based on the assessment of some Tech-Voc entities like TESDA, Carigara School of Fisheries is qualified to open Tech-Voc School with Technical Vocational Education (TVE) as its flagship program. 
+	</br>
+	Today, after acquiring new and additional amenities, CSF is doing its best in promoting its TVE subjects, such as Fish culture, Fish capture, Fish preservation, Fish processing, Food technology, Horticulture, and currently, Computer operations, aside from the regular academic subjects.
+	</br>
+	These different TVE subjects enabled the students to gain technical know-how and skills which they can use when they pursue fishery related courses in college or find employment in the future.
+	</br>
+	 Its enrolment is also growing. For the school year 2009-2010, CSF has 1, 386 total number of students.</p>
+		         
+		        
+		        </fieldset>
+	       </fieldset>
+	
+</div>
+	
+	
+	
+<div id="about_02">
+	       <fieldset id="fieldset_ox">
+	       
+	
+	         <h2>Teaching Staff</h2>
+	        <img  id="staff" src="css/images/staff.jpeg">
+	         <br/>
+	         <fieldset id="teachers">
+						Administrators (Past-present) :
+						<br/>
+
+						Dr. Ludina M. Oballo-OIC- 2002-2003Mrs. Leticia G. Benusa-2003-2008Dr. Ludina M. Oballo-2008-present.
+						<br/>
+						Teaching and Non-teaching staff of SY 2009-2010:
+
+						 <br/><br/>
+
+						Lea D. Alfaro-SST I
+						<br/>
+						Evelyn R. Alido-SST I
+						<br/>
+						Rhoderick A. Alido-SST I
+						<br/>
+						Marites O. Alob-SST I
+						<br/>
+						German R. Angayangay-SST III
+						<br/>
+						Ma. Cristina D. Angayangay-SST I
+						<br/>
+						Louela C. Antonio-SST I
+						<br/>
+						Sergio Artemio M. Apostol-SST I
+						<br/>
+						Ma. Linda M. Avila-SST I
+						<br/>
+						Rodel Candare-SST I
+						<br/>
+						Marvin L. Contapay-SST I
+						<br/>
+						Regina D. Dajab-SST I
+						<br/>
+						Aquilina A. De Mesa-SST III
+						<br/>
+						Villa Estefa G. Delicano-SST I
+						<br/>
+						Mariechu G. Delison-SST I
+						<br/>
+						Angelica B. Escanillas-SST I
+						<br/>
+						Joy Bernadette D. Eslera-SST I
+						<br/>
+						Russel C. Espina-MT I
+						<br/>
+						Balbino B. Fabi-SST I
+						<br/>
+						Fidelita M. Garcia-SST III
+						<br/>
+						Elmer O. Florendo-SST I
+						<br/>
+						Fatima Mignon G. Dela Rama-SST 1
+						<br/>
+						Rowena B. Higum-SST III
+						<br/>
+						Catherine N. Lianza-SST I
+						<br/>
+						Ma. Eden R. Ligutan-SST III
+						<br/>
+						Socorro M. Lipardo-SST II
+						<br/>
+						Jean A. Medino-SST III
+						<br/>
+						Bernadeth L. Parena-SST I
+						<br/>
+						Hundzel E. Sonon-SST I
+						<br/>
+						Annabel C. Tonog-SST I
+						<br/>
+						Alex B. Urmeneta-SST I
+						<br/><br/>
+						 
+
+						CSF Faculty assigned at CSF-Sogod Annex
+						<br/><br/>
+						Brgy. Sogod, Carigara, Leyte:
+						<br/><br/>
+						 
+
+						Eulogia B. Ramos-SST III
+						<br/>
+						 Rolando Balais-SST I
+						<br/>
+						 Pamela Luceño-SST I
+						<br/>
+						Non-teaching Staff:
+						<br/>
+						 
+
+						 Alberto O. Canega-Utility Worker
+						<br/>
+						 Tereso D. Dadacay-Watchman
+						<br/>
+						 Morena T. Dipa-Library Aide
+						<br/>
+						Julie R. Sabillo-Accounting Clerk
+						<br/>
+						Ramilo M. Villa-Data Encoder (GPTA/LGU-Funded Teacher).  
+
+				</fieldset>
+
+	       </fieldset>
+	
+</div>
+	
+<div id="mission_vision">
+
+	<fieldset id="fieldset_mission">
+		<h3>Mission</h3>
+			<p>
+				CSF with the stakeholders will cooperatively work to equip the students technical-vocational training and skills and academic know-how to prepare them for the demands of the community and the workplace.
+			</p>
+		<h3>Vision</h3>
+
+			<p>
+				CSF is a demand-driven institution committed to  produce graduates with competencies, training and values for highe learning, entrepreneurship and life-long gainful employment fit for the global workplace.
+	</fieldset>
+
+</div>	
+
+
+
+<div id="about_03">
+	<fieldset id="fieldset_curriculum">
+		       
+		
+		   <h2>Curriculum</h2>
+		         
+		         
+
+			<h3>School's Curriculum</h3>
+
+
+
+			"Strengthened Technical Vocational Education"
+
+			 
+
+			The Technical-Vocational High Schools shall adopt the STVEP using Competency-Based curriculum (CBC). 
+			It is a framework or guide for the subsequent detailed development of curriculum and associated methodologies and training and assessment resources. 
+			The competency-based curriculum specifies outcomes which are consistent with the requirements of the workplace as agreed through 
+			the industry or community consultations.
+
+
+			<ul>
+			<p>Curriculum Design:</p>  
+			</ul>
+
+
+			<ul>
+				<li>TVE in the First year shall be exploratory on the basic principles 
+					and practices as well as entrepreneurship concepts in each of the component areas: 
+					Arts and Trades,  Agricultural Arts and Fishery Arts.
+				</li>
+			</ul>
+
+			<ul>
+				<li>
+					Specialization shall start in the Second Year and shall be offered based on the interest of the students, 
+					needs of the community and the capability of the school to offer such specialization.
+				</li>
+			</ul>
+
+
+			<ul>
+				<li>
+					Instruction of the program shall be flexible to accommodate related activities outside the school like practicum in the work environment.
+					Schools are encouraged in this regard to enter into a partnership with local industries for the students' exposure and work experience. 
+					Intervention of LGU must be tapped to support the programs of the school.
+				</li>
+			</ul>
+
+
+			<ul>
+				<li>
+					Fourth year students are encouraged to undergo Supervised Industry Exposure or On-Job Training (OJT) 
+					depending on the availability of industries in the locality.
+				</li>
+			</ul>
+
+
+			<ul>
+				<li>
+					The unit credit for the TVE subject shall be 3 units.
+				</li>
+			</ul>
+
+
+			<ul>
+				<li>
+					The curriculum shall provide opportunities for students to acquire a         National Certificate and/or Certificate of Competency.
+				</li>
+			</ul>
+
+
+			<ul>
+				<li>
+					Teacher-Student ratio in all TVE subjects shall be 1:25 in a class.
+				</li>
+			</ul>
+
+
+			<ul>
+				<li>
+					The subject shall be written in the report card under the nomenclature TVE (Exploratory) 
+					from Year I and TVE (Specialization) to be specified by the school for years II to IV.
+				</li>
+			</ul>
+
+
+			<ul>
+				<li>
+					The areas of specializations are Agriculture and Fishery Arts, Home Economics, Industrial Arts, Entrepreneurship.
+				</li>
+			</ul>
+
+
+			<ul>
+				<li>
+					Students shall be given two options in choosing their area of specializations; it shall be based from the two highest grades in the exploratory classes. 
+					Shifting area of specialization is not allowed from third year to fourth year.
+				</li>
+			</ul>
+
+
+			<ul>
+				<li>
+					Selection of specialization of students shall be done before enrollment period, to be administered by the guidance counselors, 
+					vocational head teachers, and teachers with the concurrence of the parents of the students.
+				</li>
+			</ul>
+
+
+			<table border="1";>
+				<h3>Curriculum Offerings with Subjects, Units and Time.</h3>
+				<tr>
+			    SUBJECTS, TIME AND UNIT CREDITS
+				</tr>
+
+
+				  <tr>
+				 <td> SUBJECTS</td> <td>	Min. </td><td>	Units</td> 	<td>Min.</td> <td>Units </td>	 <td>Min. </td>	<td>Units </td>	 <td>Min.</td> <td>	Units</td>
+				 </tr>
+				 <tr>
+				  <td>English</td>  <td>	300 </td><td>	1.5 </td>	<td>300 </td> <td>1.5   </td>  <td>300 </td>	<td>1.5 </td>	 <td>300 </td>	<td>1.5</td>
+				 </tr>
+				 <tr>
+				 <td> Science </td>	<td>	360 </td><td>	1.8 </td>	<td>360 </td>  <td>1.8 </td>	 <td>360 </td>	<td>1.8 </td>	 <td>360 </td>	<td>1.8</td>
+				 </tr>
+
+				<tr>
+				  <td>Math </td>	<td>	300 </td><td>	1.5 </td>	<td>300 </td>  <td>1.5  </td>	<td>300 </td>	<td>1.5 </td>	<td>300 </td>	<td>1.5</td>
+				</tr>
+				<tr>
+				  <td>Filipino </td><td>	120 </td><td>   0.6 </td>	<td>120 </td>  <td>0.6 </td>	<td>160 </td>	<td>0.75</td>  	<td>160 </td>	<td>0.75</td>
+				 </tr>
+
+
+				 <tr> 
+				  <td>Araling Panlipunan</td><td>120 </td>	<td>0.6 </td>	<td>120</td> 	<td>0.6 </td>	<td>160</td> 	<td>0.75</td> <td>	160 </td> <td>	0.75</td>
+				 </tr>
+				 <tr>
+				  <td>MAPEH</td> 			<td>120 </td> 	<td>0.6 </td>	<td>120</td>	<td>0.6 </td>	<td>120</td> 	<td>0.6</td> 	<td>120</td>  <td>	0.6</td>
+				 </tr>
+				 <tr>
+				 	<td>Technical Drawing</td> 	<td>120</td> 	<td>0.6</td> 	<td>120 </td>	<td>0.6</td> 	<td>*</td> <td>*</td> <td>*</td> <td>*</td>   	  	  	 
+				 </tr>
+				 <tr>
+				  <td>Entrepreneurship </td>	<td>*</td>  <td>*</td>	   <td>*</td>	<td>*</td> <td>120</td> 	<td>0.6 </td>	<td>120</td> 	<td>0.6</td>
+				 </tr>
+				 <tr>
+				  <td>PC Operations </td>	<td>120</td> 	<td>0.6</td> 	<td>120 </td>	<td>0.6 </td>	<td>*</td> <td>*</td> <td>*</td> <td>*</td>   	  	  	 
+				 </tr>
+				 <tr>
+				 <td> TVE </td>	<td>600 </td>	<td>3 </td>	<td>600 </td>	<td>3 </td>	<td>600 </td>	<td>3 </td>	<td>600 </td>	<td>3</td>
+				 </tr>
+				 <tr>
+				  <td>Values Education</td> <td>60 </td> 	<td>0.3 </td> 	<td>60 </td> 	<td>0.3 </td> 	<td>60 </td> 	<td>0.3 </td> 	<td>60 </td> 	<td>0.3</td> 
+				 </tr>
+				 <tr>
+				  <td>CAT </td>	  	<td>*</td> <td>*</td> <td>*</td>  <td>*</td> <td>*</td> <td>*</td>  <td>35 hrs</td> 	<td>0.3</td>
+				 </tr>
+				 <tr>
+				  <th>Total </th>	<th>2220</th> 	<th>11.1</th> 	<th>2220</th> 	<th>11.1</th> 	<th>2180</th> 	<th>10.8</th> 	<th>2180</th> 	<th>11.1</th>
+				</tr>
+			</table>
+
+
+
+			<ul>
+				<li>
+					 First year students, aside from doing exploratory work, shall be provided with Career Education to guide them in their wise choice of career.
+				</li>
+			</ul>
+
+
+			<ul>
+				<li>
+					Graduating students shall render a minimum of 35 hours in compliance with the provision of DepEd Order No. 100, s. 2004.
+				</li>
+			</ul>
+
+			<ul>
+				<li>
+					Tree planting is a requirement for all students in support to the program of the United Nations on Climate Change.
+				</li>
+			</ul>
+
+			<ul>
+				<li>
+					Entrepreneurship shall be an exploratory subject in TVE for the first year.
+				</li>
+			</ul>
+
+			<ul>
+				<li>
+					Entrepreneurship shall be offered as a separate subject in the third and fourth year.
+				</li>
+			</ul>
+
+			<ul>
+				<li>
+					There is an increase in the contact hours in Filipino III and IV and Araling Panlipunan III and IV from 120 to 160 minutes per week.
+				</li>
+			</ul>
+	</fieldset>
+
+</div>
+	
+	
+	     <div id="Admission">
+	       <fieldset id="fieldset_ox">
+	       
+	
+	         <h2>Admission Requirements</h2>
+
+	         <ul>
+				<li>
+					Enrolment in all levels must be with their parents
+				</li>
+			</ul>
+
+			 <ul>
+				<li>
+					One photocopy of Birth Certificate from NSO (1st year and transferees)
+				</li>
+			</ul>
+
+			 <ul>
+				<li>
+					Form 138 / Diploma
+				</li>
+			</ul>
+
+			 <ul>
+				<li>
+					Certification of Public School Nurse that the student is physically fit
+				</li>
+			</ul>
+
+			 <ul>
+				<li>
+					Proper hair cut and no wearing of earrings (boys only)
+				</li>
+			</ul>
+
+			 <ul>
+				<li>
+					Accomplish yearly enrolment contract. (1st year and transferees)
+				</li>
+			</ul>
+
+			 <ul>
+				<li>
+					Form 137 A (Permanent Records) 2nd to 4th year (for students outside Coron District)
+				</li>
+			</ul>
+			 <ul>
+				<li>
+					Strictly no admittance of fraternity members of any form
+				</li>
+			</ul>
+
+			 <ul>
+				<li>
+					Orientation of students by year level should be with their parents
+				</li>
+			</ul>
+
+			 <ul>
+				<li>
+					Bring ID card and 2 1-1/2 x 1-1/2 picture
+				</li>
+			</ul>
+	         
+	         
+	       </fieldset>
+	
+	     </div>
+	
+	
+	     <div id="enroll_01">
+			
+			<fieldset id="fieldset_o2">
+								
+					<h2>First Year Enrollee</h2>
+
+					<div id="searching_name">
+						<input type="text" name="search" placeholder="enter LASTNAME" id="search"/>
+						<input type="button" name="search" value="SEARCHING" id="searchBox"  class = "btn btn-info"/><br />
+					</div>
+					<div id="DELETED" title="Deleting some Info">
+						<p>are you to delete it?<p>
+					</div>
+
+					<table id="search_table" border="1" title="RESULTs";>
+						
+					</table>
+
+				<fieldset id="adding_01">
+
+					<table id="add_info">
+						
+								<h3 id="h3_firstEnrollee">Fill up Here !!!</h3>
+						
+							<tr>
+								<td>Firstame:</td> <td><input id="firstname" type="text" name="firstname" placeholder="Firstname"/></td><br/>
+							</tr>
+							<tr>
+								<td>Lastname:</td> <td><input type="text" name="lastname" placeholder="Lastname"/></td><br/>
+							</tr>
+								<tr>
+								<td>Gender:</td> 
+								<td>
+										<select name="gender" id="gender">
+											<option VALUE='Male'>Male</option>
+											<option VALUE='Female'>Female</option>
+										</select>
+								</td> 
+							</tr>
+							<tr>
+								<td>Age:</td> <td><input type="int" name="age" placeholder="Age"/></td><br/>
+							</tr>
+							<tr>
+								<td>Address:</td> <td><input type="text" name="address" placeholder="Address"/></td><br/>
+							</tr>
+							<tr>
+								<td>Mobile #:</td> <td><input type="int" name="number" placeholder="Mobile Number"/></td><br/>
+							</tr>
+							
+					</table>
+
+
+				<button type="submit" id="add_pupil" class = "btn btn-primary">Enroll</button>
+
+				<br/>
+				<br/>
+				<br/>
+		</fieldset>
+
+
+					<!--Editing_01-->
+					<table id="edit" title="Edit">
+							<tr>
+								<td><h3 id="h3_firstEnrollee">Editing Info</h3></td>
+							<tr>
+							<tr>
+								<td>Firstame:</td> <td><input id="firstname" type="text" name="e_firstname" placeholder="Firstname"/></td><br/>
+							</tr>
+							<tr>
+								<td>Lastname:</td> <td><input type="text" name="e_lastname" placeholder="Lastname"/></td><br/>
+							</tr>
+								<tr>
+								<td>Gender:</td> 
+								<td>
+										<select name="e_gender" id="gender">
+											<option VALUE='Male'>Male</option>
+											<option VALUE='Female'>Female</option>
+										</select>
+								</td> 
+							</tr>
+							<tr>
+								<td>Age:</td> <td><input type="int" name="e_age" placeholder="Age"/></td><br/>
+							</tr>
+							<tr>
+								<td>Address:</td> <td><input type="text" name="e_address" placeholder="Address"/></td><br/>
+							</tr>
+							<tr>
+								<td>Mobile #:</td> <td><input type="int" name="e_number" placeholder="Mobile Number"/></td><br/>
+							</tr>
+							<tr>
+								<td><button id="edit_info">Save</button></td>
+							</tr>
+					</table><!--Editing_01-->
+
+
+
+				<div>
+					<button id="show_table"  class = "btn btn-info">SHOW TABLE</button>
+				</div>
+
+				
+
+				<table id="enroll_table_01" border="1";>
+						<tr>
+							<td><h3>DATA LIST</h3></td>
+						</tr>
+						<tr>
+							<td class="DataTable">id</td>
+							<td class="DataTable">Firstname</td>
+							<td class="DataTable">Lastname</td>
+							<td class="DataTable">Gender</td>
+							<td class="DataTable">Age</td>
+							<td class="DataTable">Address</td>
+							<td class="DataTable">Mobile Number</td>
+							<td class="DataTable">Action</td>
+						</tr>
+					</table>
+			</fieldset>
+
+			
+
+	     </div>
+	
+	
+
+	     <div id="enroll_02">
+			
+			<fieldset id="fieldset_o2">
+								
+							<h2>First Year Enrollee</h2>
+
+					<div id="searching_name">
+						<input type="text" name="search" placeholder="enter LASTNAME" id="search"/>
+						<input type="button" name="search" value="SEARCHING" id="searchBox" /><br />
+					</div>
+
+					<table id="add_info">
+							<tr>
+								<td><h3 id="h3_firstEnrollee">Fill up Here !!!</h3></td>
+							<tr>
+							<tr>
+								<td>Firstame:</td> <td><input id="firstname" type="text" name="firstname" placeholder="Firstname"/></td><br/>
+							</tr>
+							<tr>
+								<td>Lastname:</td> <td><input type="text" name="lastname" placeholder="Lastname"/></td><br/>
+							</tr>
+								<tr>
+								<td>Gender:</td> 
+								<td>
+										<select name="gender" id="gender">
+											<option VALUE='Male'>Male</option>
+											<option VALUE='Female'>Female</option>
+										</select>
+								</td> 
+							</tr>
+							<tr>
+								<td>Age:</td> <td><input type="int" name="age" placeholder="Age"/></td><br/>
+							</tr>
+							<tr>
+								<td>Address:</td> <td><input type="text" name="address" placeholder="Address"/></td><br/>
+							</tr>
+							<tr>
+								<td>Mobile #:</td> <td><input type="int" name="number" placeholder="Mobile Number"/></td><br/>
+							</tr>
+							
+						</table>
+
+
+				<button type="submit" id="add_pupil2">Enroll</button>
+
+				<br/>
+				<br/>
+				<br/>
+
+				<div>
+					<button id="show_table">SHOW TABLE</button>
+				</div>
+
+				<table id="enroll_table_01" border="1";>
+						<tr>
+							<td><h3>DATA LIST</h3></td>
+						</tr>
+						<tr>
+							<td class="DataTable">Firstname</td>
+							<td class="DataTable">Lastname</td>
+							<td class="DataTable">Gender</td>
+							<td class="DataTable">Age</td>
+							<td class="DataTable">Address</td>
+							<td class="DataTable">Mobile Number</td>
+							<td class="DataTable">Action</td>
+						</tr>
+					</table>			
+			 </fieldset>
+
+	     </div>
+	
+
+		<div id="enroll_03">
+					
+			<fieldset id="fieldset_o2">
+							<h2>First Year Enrollee</h2>
+
+					<div id="searching_name">
+						<input type="text" name="search" placeholder="enter LASTNAME" id="search"/>
+						<input type="button" name="search" value="SEARCHING" id="searchBox" /><br />
+					</div>
+
+					<table id="add_info">
+							<tr>
+								<td><h3 id="h3_firstEnrollee">Fill up Here !!!</h3></td>
+							<tr>
+							<tr>
+								<td>Firstame:</td> <td><input id="firstname" type="text" name="firstname" placeholder="Firstname"/></td><br/>
+							</tr>
+							<tr>
+								<td>Lastname:</td> <td><input type="text" name="lastname" placeholder="Lastname"/></td><br/>
+							</tr>
+								<tr>
+								<td>Gender:</td> 
+								<td>
+										<select name="gender" id="gender">
+											<option VALUE='Male'>Male</option>
+											<option VALUE='Female'>Female</option>
+										</select>
+								</td> 
+							</tr>
+							<tr>
+								<td>Age:</td> <td><input type="int" name="age" placeholder="Age"/></td><br/>
+							</tr>
+							<tr>
+								<td>Address:</td> <td><input type="text" name="address" placeholder="Address"/></td><br/>
+							</tr>
+							<tr>
+								<td>Mobile #:</td> <td><input type="int" name="number" placeholder="Mobile Number"/></td><br/>
+							</tr>
+							
+						</table>
+
+
+				<button type="submit" id="add_pupil3">Enroll</button>
+
+				<br/>
+				<br/>
+				<br/>
+
+				<div>
+					<button id="show_table">SHOW TABLE</button>
+				</div>
+
+				<table id="enroll_table_01" border="1";>
+						<tr>
+							<td><h3>DATA LIST</h3></td>
+						</tr>
+						<tr>
+							<td class="DataTable">Firstname</td>
+							<td class="DataTable">Lastname</td>
+							<td class="DataTable">Gender</td>
+							<td class="DataTable">Age</td>
+							<td class="DataTable">Address</td>
+							<td class="DataTable">Mobile Number</td>
+							<td class="DataTable">Action</td>
+						</tr>
+					</table>
+							
+	     	</fieldset>
+
+	     </div>
+	
+	
+	     <div id="enroll_04">
+			
+	     <fieldset id="fieldset_o2">
+					<h2>First Year Enrollee</h2>
+
+					<div id="searching_name">
+						<input type="text" name="search" placeholder="enter LASTNAME" id="search"/>
+						<input type="button" name="search" value="SEARCHING" id="searchBox" /><br />
+					</div>
+
+					<table id="add_info">
+							<tr>
+								<td><h3 id="h3_firstEnrollee">Fill up Here !!!</h3></td>
+							<tr>
+							<tr>
+								<td>Firstame:</td> <td><input id="firstname" type="text" name="firstname" placeholder="Firstname"/></td><br/>
+							</tr>
+							<tr>
+								<td>Lastname:</td> <td><input type="text" name="lastname" placeholder="Lastname"/></td><br/>
+							</tr>
+								<tr>
+								<td>Gender:</td> 
+								<td>
+										<select name="gender" id="gender">
+											<option VALUE='Male'>Male</option>
+											<option VALUE='Female'>Female</option>
+										</select>
+								</td> 
+							</tr>
+							<tr>
+								<td>Age:</td> <td><input type="int" name="age" placeholder="Age"/></td><br/>
+							</tr>
+							<tr>
+								<td>Address:</td> <td><input type="text" name="address" placeholder="Address"/></td><br/>
+							</tr>
+							<tr>
+								<td>Mobile #:</td> <td><input type="int" name="number" placeholder="Mobile Number"/></td><br/>
+							</tr>
+							
+						</table>
+
+
+				<button type="submit" id="add_pupil4">Enroll</button>
+
+				<br/>
+				<br/>
+				<br/>
+
+				<div>
+					<button id="show_table">SHOW TABLE</button>
+				</div>
+
+				<table id="enroll_table_01" border="1";>
+						<tr>
+							<td><h3>DATA LIST</h3></td>
+						</tr>
+						<tr>
+							<td class="DataTable">Lastname</td>
+							<td class="DataTable">Firstname</td>
+							<td class="DataTable">Gender</td>
+							<td class="DataTable">Age</td>
+							<td class="DataTable">Address</td>
+							<td class="DataTable">Mobile Number</td>
+							<td class="DataTable">Action</td>
+						</tr>
+					</table>
+							
+	     </fieldset>
+
+	     </div>
+
+
+
+	     <div id="school_activities">
+	          <fieldset id="fieldset_o3">
+		          <center><h1 class="title_header">School Activities</h1></center>
+
+
+		         
+
+		     </fieldset>
+
+	     </div>
+
+
+
+
+	     <div id="Clubs">
+	        <fieldset id="fieldset_o3">
+		        <center><h1 class="title_header">Organizational Clubs</h1></center>
+		        <ul>
+		          	<li><a href="SSG" id="id_SSG">SUPREME STUDENT GOVERNMENT</a></li>
+		          	<li><a href="Sports_club" id="id_Sports">SPORTS club</a></li>
+		          	<li><a href="Math_club" id="id_Math">MATH club</a></li>
+		          	<li><a href="Science_club" id="id_Science">Science club</a></li>
+		        </ul>
+		    </fieldset>
+	     </div>
+	
+
+	<div id="Contact">
+	        <fieldset id="fieldset_o3">
+		        <center><h1 class="title_header"></h1></center>
+			</fieldset>
+	</div>
+	
+	<div id="Mathematics">
+		<fieldset id="mathematics_field">
+			<h3>GENERAL MATHEMATICS</h3>
+			<h3>Algebra</h3>
+			<h3>GEOMETRY</h3>
+			<h3>STATISTICS</h3>
+
+		</fieldset>
+	</div>
+
+
+	<div id="Science">
+		<fieldset id="science_field">
+			
+		</fieldset>
+	</div>
+
+
+	
+
+	<footer>
+		<hr />
+	  <p>Carigara School of Fisheries - Brgy. Barugohay Norte, Carigara, Leyte, Philippines<br/>
+			Copyright © 2012 All Rights Reserved<br/>
+			Designed by reyvenoid.com</p>
+	  <p><time pubdate datetime="2012-03-01"></time></p>
+	  	<hr />
+	</footer> 
+</body>		
+
+</html>
